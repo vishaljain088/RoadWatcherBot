@@ -1,0 +1,15 @@
+Hi {0},
+
+The Vehicle Registration Number {1} has been fined INR {2} for jumping red light signal.
+
+The details of your vehicle are as follow:
+
+Vehicle Fitness/Registration Upto: {3}
+Vehicle Fitness/Registration Status: {4}
+Red Light Jump Fine: {5}
+Fitness Fine: {6}
+
+Kindly pay the fine at your nearest traffic police station.
+
+Regards,
+Delhi Traffic police
